@@ -17,7 +17,7 @@ const clients = [
    { name: "Media coverage", logo: "/logo_zenith.jpg" },
   { name: "Media coverage", logo: "/logo.png" },
   { name: "Media coverage", logo: "/mogu.jpeg" },
-  { name: "Media coverage", logo: "/busineeware.png" },
+  { name: "Media coverage", logo: "/Miris_logo.jpg" },
   { name: "Media coverage", logo: "/chainmart.png" },
   { name: "Media coverage", logo: "/abatis.png" },
   { name: "Media coverage", logo: "/amina.png" },

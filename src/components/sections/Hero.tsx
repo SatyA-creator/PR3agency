@@ -117,7 +117,7 @@ export function Hero() {
                 className="bg-primary hover:bg-primary/90 text-primary-foreground px-6 sm:px-8 h-12 sm:h-14 text-sm sm:text-base font-semibold group w-full sm:w-auto"
               >
                 <a href="#contact">
-                  Start Project
+                  Free Consultation
                   <ArrowRight className="ml-2 w-4 sm:w-5 h-4 sm:h-5 group-hover:translate-x-1 transition-transform" />
                 </a>
               </Button>
