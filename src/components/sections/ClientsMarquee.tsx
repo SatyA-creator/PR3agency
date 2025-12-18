@@ -14,6 +14,12 @@ const clients = [
   { name: "Swissborg", logo: "https://img1.wsimg.com/isteam/ip/f1002561-3d42-40f9-9ebe-f6606a14bfce/Swissborg-logo.png/:/rs=h:100,cg:true,m/fx-gs" },
   { name: "Quranium", logo: "https://img1.wsimg.com/isteam/ip/f1002561-3d42-40f9-9ebe-f6606a14bfce/Quranium%20-%20Logo_Purple.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=h:100,cg:true/fx-gs" },
   { name: "Polygon", logo: "https://img1.wsimg.com/isteam/ip/f1002561-3d42-40f9-9ebe-f6606a14bfce/512px-Polygon_blockchain_logo.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=h:100,cg:true/fx-gs" },
+   { name: "Media coverage", logo: "/logo_zenith.jpg" },
+  { name: "Media coverage", logo: "/logo.png" },
+  { name: "Media coverage", logo: "/mogu.jpeg" },
+  { name: "Media coverage", logo: "/busineeware.png" },
+  { name: "Media coverage", logo: "/chainmart.png" },
+  { name: "Media coverage", logo: "/abatis.png" },
 ];
 
 export function ClientsMarquee() {

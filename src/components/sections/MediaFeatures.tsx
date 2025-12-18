@@ -14,6 +14,9 @@ const mediaItems = [
   { alt: "UBS bankers crypto-bank", src: "https://img1.wsimg.com/isteam/ip/f1002561-3d42-40f9-9ebe-f6606a14bfce/Screenshot%202025-12-12%20at%2014.58.04.png" },
   { alt: "Media coverage", src: "https://img1.wsimg.com/isteam/ip/f1002561-3d42-40f9-9ebe-f6606a14bfce/Screenshot%202025-12-12%20at%2014.57.27.png" },
   { alt: "Media coverage", src: "https://img1.wsimg.com/isteam/ip/f1002561-3d42-40f9-9ebe-f6606a14bfce/Screenshot%202025-12-12%20at%2014.58.11.png" },
+ 
+  
+
 ];
 
 const ITEMS_PER_SLIDE = 6;
