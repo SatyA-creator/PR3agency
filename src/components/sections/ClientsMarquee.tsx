@@ -20,6 +20,7 @@ const clients = [
   { name: "Media coverage", logo: "/busineeware.png" },
   { name: "Media coverage", logo: "/chainmart.png" },
   { name: "Media coverage", logo: "/abatis.png" },
+  { name: "Media coverage", logo: "/amina.png" },
 ];
 
 export function ClientsMarquee() {

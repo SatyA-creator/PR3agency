@@ -9,9 +9,10 @@ const socialLinks = [
 
 const footerLinks = [
   { label: "Home", href: "#home" },
+   { label: "About", href: "#about" },
   { label: "Services", href: "#services" },
   { label: "Case Study", href: "#case-study" },
-  { label: "About", href: "#about" },
+  { label: "Insights", href: "#insights" },
   { label: "Contact", href: "#contact" },
   { label: "Privacy Policy", href: "/privacy-policy" },
 ];
